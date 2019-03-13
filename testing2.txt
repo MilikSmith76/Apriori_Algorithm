@@ -1,0 +1,15 @@
+aa ab ac ad ae af ag ah
+aa ac af
+ab ad af
+ad ae
+ab ac ad
+ab ae af
+aa ag
+ac ae af
+ae af ag
+af ag
+ag
+aa ag
+ad ah
+aa ab ac ad ae
+ab ad ae ag
